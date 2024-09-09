@@ -1074,8 +1074,13 @@
   }
   .about--banner img {
     position: absolute;
-    bottom: -90px;
-    right: -12px;
+    bottom: -20px;
+    right: -10px;
+    width: 18rem;
+    height:30rem;
+    object-fit: cover;
+    border-radius: 20rem;
+    box-shadow: 0 0 10px navy;
   }
   .about--options {
     display: -webkit-box;
