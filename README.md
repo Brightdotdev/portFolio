@@ -1,18 +1,12 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# [Bright's Portfolio version one lol]
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+**Bright** is a creative professional transitioning from graphic design to the dynamic world of UI/UX design and web development. With a strong foundation in visual design, Bright excels in crafting aesthetically pleasing and functional user interfaces. 
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+As a graphic designer, they developed a keen eye for detail and a deep understanding of visual communication, which now seamlessly translates into user experience design.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
-
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
+Bright's passion for problem-solving and improving digital experiences has led them to web development, where they apply their design expertise to build user-friendly, responsive, and accessible websites. Eager to continuously learn and evolve, Bright brings a unique blend of creativity and technical skills to every project, delivering well-rounded solutions that balance form and function.
+olutions that balance form and function.
 
 ## Misc:
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+* Follow Bucky: [Twitter](https://twitter.com/darksknndknight), [GitHub](https://github.com/darksknndknight)
