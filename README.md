@@ -9,4 +9,4 @@ olutions that balance form and function.
 
 ---
 
-* Follow Bright: [LinkedIN](https://www.linkedin.com/in/akinola-bright-27b2b92a0/), [GitHub](https://github.com/darksknndknight)
+* Follow Bright: [LinkedIn](https://www.linkedin.com/in/akinola-bright-27b2b92a0/), [GitHub](https://github.com/darksknndknight)
