@@ -1754,6 +1754,8 @@ font-size: .5rem;
 
   
 }
-.about--banner img{
- position: relative;
+
+.about--banner img {
+  width: 20rem;
+  height: 30rem;
 }
