@@ -1745,7 +1745,7 @@ font-size: .5rem;
 
 
 .about--banner{
-  background: #000;
+  
   width: 100%;
   position: relative;
   flex-wrap: wrap;
@@ -1758,4 +1758,13 @@ font-size: .5rem;
 .about--banner img {
   width: 20rem;
   height: 30rem;
+}
+
+.aboutLeft{
+  width: 40%;
+  
+}
+
+.aboutLeft h2{
+  font: 1rem;
 }
