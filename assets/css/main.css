@@ -1026,62 +1026,7 @@
     height: 10px;
     background-color: #0f33ff;
   }
-  .about--banner h2 {
-    position: relative;
-    margin-top: 35px;
-    font-size: 68px;
-    font-weight: 900;
-    line-height: 1;
-    z-index: 1;
-  }
-  .about--banner h2::before {
-    content: "";
-    position: absolute;
-    top: 60px;
-    left: 268px;
-    width: 30px;
-    height: 30px;
-    background-color: #0f33ff;
-    border-radius: 50%;
-  }
-  .about--banner h2::after {
-    content: "";
-    position: absolute;
-    top: 255px;
-    left: 255px;
-    width: 10px;
-    height: 10px;
-    background-color: #0f33ff;
-  }
-  .about--banner a {
-    padding: 5px 17px 5px 0;
-    text-decoration: none;
-    color: #fff;
-    font-weight: 700;
-    text-transform: uppercase;
-    background-color: transparent;
-  }
-  .about--banner a:hover svg {
-    left: 10px;
-  }
-  .about--banner a svg {
-    position: relative;
-    left: 5px;
-    width: 15px;
-    fill: #fff;
-    -webkit-transition: left 0.2s ease-in-out;
-    transition: left 0.2s ease-in-out;
-  }
-  .about--banner img {
-    position: absolute;
-    bottom: -20px;
-    right: -10px;
-    width: 18rem;
-    height:30rem;
-    object-fit: cover;
-    border-radius: 20rem;
-    box-shadow: 0 0 10px navy;
-  }
+  
   .about--options {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1700,6 +1645,36 @@
 }
 
 
+
+.about--banner{
+  width: 100%;
+  position: relative;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about--banner img {
+  width: 20rem;
+  height: 30rem;
+}
+
+.about h2{
+  font-size: 2rem;
+}
+
+.about article{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+ margin: 0;
+ padding: 0;
+}
+.about p, h2 {
+  margin: 0;
+  padding: 0;
+}
+
 @media (max-width: 750px) {
   .workCardContnainer{
     gap: 1rem;
@@ -1732,39 +1707,28 @@
   margin: .5rem 0;
 }
 
+.about article{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+ margin: 0;
+ padding: 0;
+}
+.about h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+
+.about p {
+  margin: 0;
+  padding: 0;
+  font-size: .6rem;
+}
+
 .projectArticle p, .worksCard p{
 font-size: .5rem;
 }
 .projectArticle h3, .worksCard h3{
   font-size: .8rem;
-}
-
-
-}
-
-
-
-.about--banner{
-  
-  width: 100%;
-  position: relative;
-  flex-wrap: wrap;
-  display: flex;
-  justify-content: space-between;
-
-  
-}
-
-.about--banner img {
-  width: 20rem;
-  height: 30rem;
-}
-
-.aboutLeft{
-  width: 40%;
-  
-}
-
-.aboutLeft h2{
-  font: 1rem;
-}
+}}
